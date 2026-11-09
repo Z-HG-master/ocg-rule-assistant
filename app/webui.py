@@ -31,7 +31,7 @@ button:disabled{background:#9ab}
 pre{white-space:pre-wrap;word-break:break-word;margin:6px 0 0;font-size:13px}
 .hide{display:none}
 </style></head><body>
-<header><h1>OCG 规则助手 · 检索测试台 <span class="muted" style="font-size:12px">v1</span></h1>
+<header><h1>OCG 规则助手 · 检索测试台 <span class="muted" style="font-size:12px">v1.1</span></h1>
 <p class="sub">三个库：卡片库 · 规则库 · 裁定库；裁定召回为父块/卡片/向量三路加权 RRF。</p>
 <div class="tabs"><div class="tab on" id="tabR">检索召回测试</div><div class="tab" id="tabA">AI 测试</div></div></header>
 <main>
