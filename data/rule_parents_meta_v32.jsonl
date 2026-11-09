@@ -1,0 +1,1185 @@
+{"name": "2020年4月1日起的新文本的「处刑人-摩休罗」的规则", "kind": "chain"}
+{"name": "「发动卡」的优先权", "kind": "chain"}
+{"name": "「发动卡」的优先权 - 「回合前进」的优先权", "kind": "chain"}
+{"name": "『1回合只能有1次特殊召唤』效果的规则", "kind": "chain"}
+{"name": "『发动的回合』影响怪兽的召唤·特殊召唤的规则", "kind": "chain"}
+{"name": "与胜利条件相关的文本", "kind": "chain"}
+{"name": "从EX卡组特殊召唤的规则", "kind": "chain"}
+{"name": "作为战斗·效果破坏的代替等处理适用的时点", "kind": "chain"}
+{"name": "决斗", "kind": "chain"}
+{"name": "决斗场地", "kind": "chain"}
+{"name": "决斗场地 - EX卡组区域", "kind": "chain"}
+{"name": "决斗场地 - EX怪兽区域", "kind": "chain"}
+{"name": "决斗场地 - 主怪兽区域", "kind": "chain"}
+{"name": "决斗场地 - 主怪兽区域 - 从EX卡组向主怪兽区域进行的特殊召唤", "kind": "chain"}
+{"name": "决斗场地 - 其他：除外的卡放置在场地外", "kind": "chain"}
+{"name": "决斗场地 - 卡组区域", "kind": "chain"}
+{"name": "决斗场地 - 在EX怪兽区域的怪兽控制权变更的场合", "kind": "chain"}
+{"name": "决斗场地 - 在P区域放置卡片的效果", "kind": "chain"}
+{"name": "决斗场地 - 场上的位置 - 『相邻区域』", "kind": "chain"}
+{"name": "决斗场地 - 场上的位置 - 『纵列』", "kind": "chain"}
+{"name": "决斗场地 - 场地区域", "kind": "chain"}
+{"name": "决斗场地 - 墓地", "kind": "chain"}
+{"name": "决斗场地 - 灵摆区域（P区域）", "kind": "chain"}
+{"name": "决斗场地 - 额外卡组区域（EX卡组区域）", "kind": "chain"}
+{"name": "决斗场地 - 额外卡组区域（EX卡组区域） - EX卡组中表侧加入的P怪兽", "kind": "chain"}
+{"name": "决斗场地 - 额外怪兽区域（EX怪兽区域）", "kind": "chain"}
+{"name": "决斗场地 - 魔法&陷阱区域", "kind": "chain"}
+{"name": "决斗场地 - 魔法&陷阱区域（魔法&陷阱卡区域）", "kind": "chain"}
+{"name": "决斗必要之物", "kind": "chain"}
+{"name": "决斗所需之物", "kind": "chain"}
+{"name": "决斗所需之物 - EX卡组（EX卡组）", "kind": "chain"}
+{"name": "决斗所需之物 - 副卡组", "kind": "chain"}
+{"name": "决斗所需之物 - 卡组", "kind": "chain"}
+{"name": "决斗所需之物 - 卡组 - 同名卡的定义", "kind": "chain"}
+{"name": "决斗的流程", "kind": "chain"}
+{"name": "决斗的胜利条件", "kind": "chain"}
+{"name": "决斗胜利的条件", "kind": "chain"}
+{"name": "决斗胜利的条件 - 基本分（Life Point）", "kind": "chain"}
+{"name": "决斗胜利的条件 - 平局", "kind": "chain"}
+{"name": "决斗胜利的条件 - 无法抽卡的场合", "kind": "chain"}
+{"name": "决斗胜利的条件 - 特殊卡片的胜利条件", "kind": "chain"}
+{"name": "决斗进行的场所", "kind": "chain"}
+{"name": "卡片·效果的发动 - cost", "kind": "chain"}
+{"name": "卡片·效果的发动 - cost - 从手卡丢弃作为cost", "kind": "chain"}
+{"name": "卡片·效果的发动 - cost - 解放作为cost", "kind": "chain"}
+{"name": "卡片·效果的发动 - cost - 送去墓地作为cost", "kind": "chain"}
+{"name": "卡片·效果的发动 - 效果的发动", "kind": "chain"}
+{"name": "卡片·效果的发动 - 需要发动的效果和不需要发动的效果", "kind": "chain"}
+{"name": "卡片的内容", "kind": "chain"}
+{"name": "卡片的内容 - 卡号", "kind": "chain"}
+{"name": "卡片的内容 - 卡名", "kind": "chain"}
+{"name": "卡片的内容 - 卡名 - 卡名被记述的魔法·陷阱卡", "kind": "chain"}
+{"name": "卡片的内容 - 卡名 - 在仪式魔法中卡名被记述的仪式怪兽", "kind": "chain"}
+{"name": "卡片的内容 - 属性/类别", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - ATK/DEF", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - ATK/DEF - 数值为「?」的怪兽", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - P怪兽的记述", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - P怪兽的记述 - P刻度", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - P怪兽的记述 - P效果", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 召唤方法/能力", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 属性", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 怪兽情报", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 种族", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 等级/阶级", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接怪兽的记述", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接怪兽的记述 - EX连接", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接怪兽的记述 - 连接标记", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接怪兽的记述 - 连接状态/相互连接", "kind": "chain"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接（LINK）", "kind": "chain"}
+{"name": "卡片的内容 - 陷阱卡的记述 - 效果说明", "kind": "chain"}
+{"name": "卡片的内容 - 陷阱卡的记述 - 陷阱卡的种类", "kind": "chain"}
+{"name": "卡片的内容 - 魔法卡的记述 - 效果说明", "kind": "chain"}
+{"name": "卡片的内容 - 魔法卡的记述 - 魔法卡的种类", "kind": "chain"}
+{"name": "卡组的初期化", "kind": "chain"}
+{"name": "发动条件", "kind": "chain"}
+{"name": "发动条件 - 必发效果和任意发动的可选效果", "kind": "chain"}
+{"name": "发动条件 - 效果·连锁处理中满足发动条件的效果", "kind": "chain"}
+{"name": "发动条件 - 效果的对象", "kind": "chain"}
+{"name": "发动条件 - 效果的对象 - 不取对象的效果", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 咒文速度", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 咒文速度 - 咒文速度1", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 咒文速度 - 咒文速度2", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 咒文速度 - 咒文速度3", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 组成连锁的方法", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 组成连锁的方法 - 同时发动复数效果的场合", "kind": "chain"}
+{"name": "发动条件 - 连锁的处理 - 连锁处理的方法", "kind": "chain"}
+{"name": "可以连锁发动「灰流丽」效果的例子 - 「灰流丽」的基本规则", "kind": "chain"}
+{"name": "可以连锁发动「灰流丽」效果的例子 - 从卡组把卡加入手卡的效果的例子", "kind": "chain"}
+{"name": "可以连锁发动「灰流丽」效果的例子 - 从卡组把卡送去墓地的效果的例子", "kind": "chain"}
+{"name": "可以连锁发动「灰流丽」效果的例子 - 从卡组把怪兽特殊召唤的例子", "kind": "chain"}
+{"name": "回到卡组·里侧表示的EX卡组的怪兽效果的发动的规则", "kind": "chain"}
+{"name": "回合的流程", "kind": "chain"}
+{"name": "回合的流程 - 主要阶段1", "kind": "chain"}
+{"name": "回合的流程 - 主要阶段2", "kind": "chain"}
+{"name": "回合的流程 - 准备阶段", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 伤害步骤开始时", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 伤害步骤结束时", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 伤害计算前", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 伤害计算后", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 伤害计算时", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 战斗伤害", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 伤害步骤 - 攻击力0之间的战斗", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 开始步骤", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 战斗步骤", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 战斗步骤 - 战斗的卷回", "kind": "chain"}
+{"name": "回合的流程 - 战斗阶段 - 结束步骤", "kind": "chain"}
+{"name": "回合的流程 - 抽卡阶段", "kind": "chain"}
+{"name": "回合的流程 - 结束阶段", "kind": "chain"}
+{"name": "外语版卡", "kind": "chain"}
+{"name": "大会规则", "kind": "chain"}
+{"name": "当作怪兽处理的陷阱发动后放置的魔法&陷阱区域的规则", "kind": "chain"}
+{"name": "怪兽 - P怪兽", "kind": "chain"}
+{"name": "怪兽 - 反转召唤", "kind": "chain"}
+{"name": "怪兽 - 反转召唤 - 反转", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 其他效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 永续效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 诱发即时效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 诱发效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 诱发效果 - 反转场合的效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽效果 - 起动效果", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - P召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - S/P怪兽的出场方法", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - S召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - S素材", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - X/P怪兽的出场方法", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - X召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - X素材", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 不需要「融合」魔法卡的融合怪兽的特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 从EX卡组的特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 仪式召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 仪式召唤所需要的解放", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 发动的卡片效果进行的特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 向对方的主怪兽区域进行的怪兽的特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 怪兽的条件特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 特殊召唤怪兽的特殊召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 融合/P怪兽的出场方法", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 融合召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 融合素材", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 连接召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 连接素材", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 通常召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 通常召唤 - 上级召唤", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 通常召唤 - 上级召唤所需要的解放", "kind": "chain"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 通常召唤 - 怪兽的盖放", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 效果怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 效果怪兽 - 效果怪兽的能力", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - S/P怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - S怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - X/P怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - X怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 仪式怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 融合/P怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 融合怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 连接怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的种类 - 通常怪兽", "kind": "chain"}
+{"name": "怪兽 - 怪兽的表示形式", "kind": "chain"}
+{"name": "怪兽 - 怪兽的表示形式 - 表侧守备表示", "kind": "chain"}
+{"name": "怪兽 - 怪兽的表示形式 - 表侧攻击表示", "kind": "chain"}
+{"name": "怪兽 - 怪兽的表示形式 - 里侧守备表示", "kind": "chain"}
+{"name": "怪兽 - 怪兽的表示形式的变更", "kind": "chain"}
+{"name": "怪兽 - 怪兽衍生物", "kind": "chain"}
+{"name": "怪兽 - 调整", "kind": "chain"}
+{"name": "手卡", "kind": "chain"}
+{"name": "指定发动条件的文本", "kind": "chain"}
+{"name": "指定素材的文本", "kind": "chain"}
+{"name": "放置魔力指示物的卡", "kind": "chain"}
+{"name": "效果以外的文本", "kind": "chain"}
+{"name": "效果的原则 - 0以下的数值", "kind": "chain"}
+{"name": "效果的原则 - 小数点以下的数值", "kind": "chain"}
+{"name": "效果的原则 - 控制者", "kind": "chain"}
+{"name": "效果的原则 - 效果的处理", "kind": "chain"}
+{"name": "效果的原则 - 文本的阅读方法", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - ○○指示物", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 『通常召唤外加上只有1次可以召唤』效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 不能使用", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 不能进行特定的行动", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 二重", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 伤害", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 伤害 - 永续效果给与的伤害", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 同名卡的效果无效的效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 丢弃", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 卡的发动的无效", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 只在一段时间内除外的效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 回到·加入手卡", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 回到卡组", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 控制权的变更", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 效果的发动的无效", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 效果的无效", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 无效", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 破坏", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 送去墓地", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动 - 除外", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 当作怪兽的陷阱", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 得到\\~~效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽变成装备", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽变成里侧表示", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽移动区域的效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽移动区域的效果 - P区域和怪兽区域间移动的效果", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 抽卡", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 上升/下降", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 原本攻击力·守备力变成指定数值的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 变成指定数值的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 因发动的效果导致攻击力·守备力上升·下降的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 因发动的效果导致攻击力·守备力变成指定数值的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 因永续效果导致攻击力·守备力上升·下降的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 攻守的变化 - 因永续效果导致攻击力·守备力变成指定数值的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 破坏的卡是\\~~卡的场合", "kind": "chain"}
+{"name": "效果的处理 - 个别效果处理的例子 - 随机选择", "kind": "chain"}
+{"name": "效果的处理 - 处理时也需要满足的条件", "kind": "chain"}
+{"name": "效果的处理 - 效果处理的结束", "kind": "chain"}
+{"name": "新文本的「真红眼暗钢龙」的规则", "kind": "chain"}
+{"name": "游戏的准备", "kind": "chain"}
+{"name": "游戏的准备 - 决定先攻/后攻", "kind": "chain"}
+{"name": "游戏的准备 - 初始手卡和基本分", "kind": "chain"}
+{"name": "游戏的准备 - 卡组的洗切", "kind": "chain"}
+{"name": "玩家", "kind": "chain"}
+{"name": "禁止·限制·准限制卡（限制规章）", "kind": "chain"}
+{"name": "诱发效果在发动之前卡片发生场所移动的场合的规则", "kind": "chain"}
+{"name": "诱发效果在发动之前卡片发生场所移动的场合的规则 - 反转时的效果在发动前变成里侧守备表示的场合的规则", "kind": "chain"}
+{"name": "除外", "kind": "chain"}
+{"name": "除外 - 里侧的卡", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的发动", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的发动 - 从手卡发动的陷阱卡", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的盖放", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的种类", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的种类 - 反击陷阱", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的种类 - 永续陷阱", "kind": "chain"}
+{"name": "陷阱 - 陷阱卡的种类 - 通常陷阱", "kind": "chain"}
+{"name": "魔法 - 魔法卡的发动", "kind": "chain"}
+{"name": "魔法 - 魔法卡的盖放", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 仪式魔法", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 场地魔法", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 当作魔法卡处理的P怪兽", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 永续魔法", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 装备魔法", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 通常魔法", "kind": "chain"}
+{"name": "魔法 - 魔法卡的种类 - 速攻魔法", "kind": "chain"}
+{"name": "可以连锁发动「灰流丽」效果的例子", "kind": "prefix"}
+{"name": "决斗场地 - 场上的位置", "kind": "prefix"}
+{"name": "卡片的内容 - 怪兽卡的记述", "kind": "prefix"}
+{"name": "卡片的内容 - 魔法卡的记述", "kind": "prefix"}
+{"name": "卡片的内容 - 陷阱卡的记述", "kind": "prefix"}
+{"name": "怪兽", "kind": "prefix"}
+{"name": "魔法", "kind": "prefix"}
+{"name": "陷阱", "kind": "prefix"}
+{"name": "效果的原则", "kind": "prefix"}
+{"name": "卡片·效果的发动", "kind": "prefix"}
+{"name": "效果的处理", "kind": "prefix"}
+{"name": "效果的处理 - 个别效果处理的例子", "kind": "prefix"}
+{"name": "效果的处理 - 个别效果处理的例子 - 场所的移动", "kind": "prefix"}
+{"name": "从额外卡组特殊召唤的规则", "kind": "alias"}
+{"name": "回到卡组·里侧表示的额外卡组的怪兽效果的发动的规则", "kind": "alias"}
+{"name": "决斗场地 - 额外卡组区域", "kind": "alias"}
+{"name": "决斗场地 - 额外怪兽区域", "kind": "alias"}
+{"name": "决斗所需之物 - 额外卡组（额外卡组）", "kind": "alias"}
+{"name": "决斗场地 - 主怪兽区域 - 从额外卡组向主怪兽区域进行的特殊召唤", "kind": "alias"}
+{"name": "决斗场地 - 额外卡组区域（额外卡组区域）", "kind": "alias"}
+{"name": "决斗场地 - 额外卡组区域（额外卡组区域） - 额外卡组中表侧加入的P怪兽", "kind": "alias"}
+{"name": "决斗场地 - 额外卡组区域（EX卡组区域） - EX卡组中表侧加入的灵摆怪兽", "kind": "alias"}
+{"name": "决斗场地 - 额外卡组区域（EX卡组区域） - EX卡组中表侧加入的摇摆怪兽", "kind": "alias"}
+{"name": "决斗场地 - 灵摆区域（灵摆区域）", "kind": "alias"}
+{"name": "决斗场地 - 灵摆区域（摇摆区域）", "kind": "alias"}
+{"name": "决斗场地 - 在灵摆区域放置卡片的效果", "kind": "alias"}
+{"name": "决斗场地 - 在摇摆区域放置卡片的效果", "kind": "alias"}
+{"name": "决斗场地 - 额外怪兽区域（额外怪兽区域）", "kind": "alias"}
+{"name": "决斗场地 - 在额外怪兽区域的怪兽控制权变更的场合", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 灵摆怪兽的记述", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 摇摆怪兽的记述", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 灵摆怪兽的记述 - 灵摆刻度", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 摇摆怪兽的记述 - 摇摆刻度", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 灵摆怪兽的记述 - 灵摆效果", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 摇摆怪兽的记述 - 摇摆效果", "kind": "alias"}
+{"name": "卡片的内容 - 怪兽卡的记述 - 连接怪兽的记述 - 额外连接", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 融合/灵摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 融合/摇摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 同调怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 同步怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 同调/P怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 同步/P怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - S/灵摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - S/摇摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 超量怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - XYZ怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - 超量/P怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - XYZ/P怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - X/灵摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的种类 - 特殊召唤怪兽 - X/摇摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 灵摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 摇摆怪兽", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 从额外卡组的特殊召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 融合/灵摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 融合/摇摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同调召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同步召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同调素材", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同步素材", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同调/P怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 同步/P怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - S/灵摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - S/摇摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 超量召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - XYZ召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 超量素材", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - XYZ素材", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 超量/P怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - XYZ/P怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - X/灵摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - X/摇摆怪兽的出场方法", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 灵摆召唤", "kind": "alias"}
+{"name": "怪兽 - 怪兽的召唤·特殊召唤 - 特殊召唤 - 摇摆召唤", "kind": "alias"}
+{"name": "魔法 - 魔法卡的种类 - 当作魔法卡处理的灵摆怪兽", "kind": "alias"}
+{"name": "魔法 - 魔法卡的种类 - 当作魔法卡处理的摇摆怪兽", "kind": "alias"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽移动区域的效果 - 灵摆区域和怪兽区域间移动的效果", "kind": "alias"}
+{"name": "效果的处理 - 个别效果处理的例子 - 把怪兽移动区域的效果 - 摇摆区域和怪兽区域间移动的效果", "kind": "alias"}
+{"name": "召唤区域限制", "kind": "semantic"}
+{"name": "怪兽种类基准", "kind": "semantic"}
+{"name": "区域选择自由", "kind": "semantic"}
+{"name": "连接标记参照", "kind": "semantic"}
+{"name": "表侧P怪兽", "kind": "semantic"}
+{"name": "里侧出场", "kind": "semantic"}
+{"name": "表侧出场", "kind": "semantic"}
+{"name": "错失发动时机", "kind": "semantic"}
+{"name": "场所移动", "kind": "semantic"}
+{"name": "反转时点错失", "kind": "semantic"}
+{"name": "里侧化", "kind": "semantic"}
+{"name": "回到卡组后限制", "kind": "semantic"}
+{"name": "效果不能发动", "kind": "semantic"}
+{"name": "召唤成败判定", "kind": "semantic"}
+{"name": "发动回合限制", "kind": "semantic"}
+{"name": "情报不可判定", "kind": "semantic"}
+{"name": "里侧特殊召唤", "kind": "semantic"}
+{"name": "召唤被无效", "kind": "semantic"}
+{"name": "成功次数不计算", "kind": "semantic"}
+{"name": "召唤次数限制", "kind": "semantic"}
+{"name": "同名怪兽范围", "kind": "semantic"}
+{"name": "区域可再用", "kind": "semantic"}
+{"name": "区域选择放置", "kind": "semantic"}
+{"name": "不视作破坏", "kind": "semantic"}
+{"name": "文本统一适用", "kind": "semantic"}
+{"name": "不进入连锁", "kind": "semantic"}
+{"name": "无种类效果", "kind": "semantic"}
+{"name": "特殊召唤手续", "kind": "semantic"}
+{"name": "除外自家怪兽", "kind": "semantic"}
+{"name": "1回合1次限制", "kind": "semantic"}
+{"name": "无效后次数返还", "kind": "semantic"}
+{"name": "不取对象", "kind": "semantic"}
+{"name": "效果处理时选择", "kind": "semantic"}
+{"name": "召唤来源范围", "kind": "semantic"}
+{"name": "可选发动", "kind": "semantic"}
+{"name": "送去墓地触发", "kind": "semantic"}
+{"name": "从手卡发动陷阱", "kind": "semantic"}
+{"name": "效果适用回合内", "kind": "semantic"}
+{"name": "发动者选择", "kind": "semantic"}
+{"name": "适用期间", "kind": "semantic"}
+{"name": "素材送去墓地", "kind": "semantic"}
+{"name": "发动条件放宽", "kind": "semantic"}
+{"name": "当作装备卡", "kind": "semantic"}
+{"name": "需要可用区域", "kind": "semantic"}
+{"name": "放置后宣言", "kind": "semantic"}
+{"name": "发动条件仍需满足", "kind": "semantic"}
+{"name": "cost可支付", "kind": "semantic"}
+{"name": "直接连锁发动", "kind": "semantic"}
+{"name": "复数效果卡", "kind": "semantic"}
+{"name": "伤害步骤不可用", "kind": "semantic"}
+{"name": "非发动无效", "kind": "semantic"}
+{"name": "cost送墓不算", "kind": "semantic"}
+{"name": "不能连锁", "kind": "semantic"}
+{"name": "EX卡组效果除外", "kind": "semantic"}
+{"name": "状态决定处理", "kind": "semantic"}
+{"name": "可以连锁", "kind": "semantic"}
+{"name": "仅连锁内有效", "kind": "semantic"}
+{"name": "永续效果除外", "kind": "semantic"}
+{"name": "不破坏卡", "kind": "semantic"}
+{"name": "无效后去留", "kind": "semantic"}
+{"name": "对方召唤触发", "kind": "semantic"}
+{"name": "抽卡", "kind": "semantic"}
+{"name": "阶段限定处理", "kind": "semantic"}
+{"name": "按数量判定", "kind": "semantic"}
+{"name": "破坏触发", "kind": "semantic"}
+{"name": "卡组顶确认", "kind": "semantic"}
+{"name": "选择1张加入", "kind": "semantic"}
+{"name": "种族等级指定", "kind": "semantic"}
+{"name": "手卡卡组范围", "kind": "semantic"}
+{"name": "尽可能处理", "kind": "semantic"}
+{"name": "无对象也可发动", "kind": "semantic"}
+{"name": "宣言值决定", "kind": "semantic"}
+{"name": "无效则终止处理", "kind": "semantic"}
+{"name": "无关条件仍发动", "kind": "semantic"}
+{"name": "看文本判定", "kind": "semantic"}
+{"name": "结果不同也算", "kind": "semantic"}
+{"name": "自身放置指示物", "kind": "semantic"}
+{"name": "定义标准", "kind": "semantic"}
+{"name": "仅对他卡放置", "kind": "semantic"}
+{"name": "不算符合", "kind": "semantic"}
+{"name": "无效后仍适用", "kind": "semantic"}
+{"name": "再召唤关联", "kind": "semantic"}
+{"name": "指示物放置", "kind": "semantic"}
+{"name": "伤害步骤可适用", "kind": "semantic"}
+{"name": "破坏时代替", "kind": "semantic"}
+{"name": "即时适用", "kind": "semantic"}
+{"name": "伤害计算时选择", "kind": "semantic"}
+{"name": "计算后送墓", "kind": "semantic"}
+{"name": "张数限制", "kind": "semantic"}
+{"name": "道具清单", "kind": "semantic"}
+{"name": "LP变0", "kind": "semantic"}
+{"name": "胜利判定", "kind": "semantic"}
+{"name": "抽卡不能", "kind": "semantic"}
+{"name": "败北条件", "kind": "semantic"}
+{"name": "特殊胜利卡", "kind": "semantic"}
+{"name": "条件达成", "kind": "semantic"}
+{"name": "初始手卡", "kind": "semantic"}
+{"name": "初始基本分", "kind": "semantic"}
+{"name": "召唤与魔法陷阱使用", "kind": "semantic"}
+{"name": "攻击宣言", "kind": "semantic"}
+{"name": "战斗伤害", "kind": "semantic"}
+{"name": "重复流程", "kind": "semantic"}
+{"name": "胜利达成", "kind": "semantic"}
+{"name": "区域容量上限", "kind": "semantic"}
+{"name": "1区1只", "kind": "semantic"}
+{"name": "P区域化", "kind": "semantic"}
+{"name": "非公开情报", "kind": "semantic"}
+{"name": "检索收入手卡", "kind": "semantic"}
+{"name": "里侧放置", "kind": "semantic"}
+{"name": "决斗中加入", "kind": "semantic"}
+{"name": "表侧放入EX", "kind": "semantic"}
+{"name": "不送墓地", "kind": "semantic"}
+{"name": "公开确认", "kind": "semantic"}
+{"name": "顺序固定", "kind": "semantic"}
+{"name": "容量独立计算", "kind": "semantic"}
+{"name": "场地魔法放置", "kind": "semantic"}
+{"name": "区域独占", "kind": "semantic"}
+{"name": "不计入主区域", "kind": "semantic"}
+{"name": "放场地外", "kind": "semantic"}
+{"name": "非公开区域", "kind": "semantic"}
+{"name": "玩法定义", "kind": "semantic"}
+{"name": "三局两胜", "kind": "semantic"}
+{"name": "比赛判定", "kind": "semantic"}
+{"name": "效果处理工具", "kind": "semantic"}
+{"name": "卡组构成", "kind": "semantic"}
+{"name": "张数范围", "kind": "semantic"}
+{"name": "张数不计入", "kind": "semantic"}
+{"name": "卡种去向", "kind": "semantic"}
+{"name": "同名卡上限", "kind": "semantic"}
+{"name": "同名判定", "kind": "semantic"}
+{"name": "同名判定标准", "kind": "semantic"}
+{"name": "规则上卡名", "kind": "semantic"}
+{"name": "分开计算上限", "kind": "semantic"}
+{"name": "备用调整", "kind": "semantic"}
+{"name": "卡组对策", "kind": "semantic"}
+{"name": "卡组交换", "kind": "semantic"}
+{"name": "张数不变", "kind": "semantic"}
+{"name": "回合玩家", "kind": "semantic"}
+{"name": "身份定义", "kind": "semantic"}
+{"name": "对手指代", "kind": "semantic"}
+{"name": "胜利条件达成", "kind": "semantic"}
+{"name": "基本分减少", "kind": "semantic"}
+{"name": "胜利判定时点", "kind": "semantic"}
+{"name": "下限为0", "kind": "semantic"}
+{"name": "支付上限", "kind": "semantic"}
+{"name": "基本分可归0", "kind": "semantic"}
+{"name": "败北确定时点", "kind": "semantic"}
+{"name": "不可挽回", "kind": "semantic"}
+{"name": "卡组耗尽", "kind": "semantic"}
+{"name": "即时败北", "kind": "semantic"}
+{"name": "不因处理失败败北", "kind": "semantic"}
+{"name": "特殊胜利条件", "kind": "semantic"}
+{"name": "同时处理", "kind": "semantic"}
+{"name": "平局判定", "kind": "semantic"}
+{"name": "规定区域放置", "kind": "semantic"}
+{"name": "情报公开级别", "kind": "semantic"}
+{"name": "场地定义", "kind": "semantic"}
+{"name": "区域分配", "kind": "semantic"}
+{"name": "范围界定", "kind": "semantic"}
+{"name": "范围扩大解释", "kind": "semantic"}
+{"name": "双方全区域", "kind": "semantic"}
+{"name": "区域用途界定", "kind": "semantic"}
+{"name": "当作怪兽处理", "kind": "semantic"}
+{"name": "卡种兼用", "kind": "semantic"}
+{"name": "位置固定", "kind": "semantic"}
+{"name": "连接标记指向", "kind": "semantic"}
+{"name": "区域已满禁止", "kind": "semantic"}
+{"name": "场地魔法专用", "kind": "semantic"}
+{"name": "当作魔法处理", "kind": "semantic"}
+{"name": "公开情报", "kind": "semantic"}
+{"name": "随时确认", "kind": "semantic"}
+{"name": "同时处理顺序", "kind": "semantic"}
+{"name": "持有者决定", "kind": "semantic"}
+{"name": "持有者归属", "kind": "semantic"}
+{"name": "非公开限制", "kind": "semantic"}
+{"name": "检索例外", "kind": "semantic"}
+{"name": "枚数公开", "kind": "semantic"}
+{"name": "检索后洗切", "kind": "semantic"}
+{"name": "效果范围限定", "kind": "semantic"}
+{"name": "场地区域专放", "kind": "semantic"}
+{"name": "不计入魔陷张数", "kind": "semantic"}
+{"name": "持有者确认", "kind": "semantic"}
+{"name": "顺序可调换", "kind": "semantic"}
+{"name": "对对方非公开", "kind": "semantic"}
+{"name": "条件性认定", "kind": "semantic"}
+{"name": "当作P区域的卡", "kind": "semantic"}
+{"name": "仅两端区域", "kind": "semantic"}
+{"name": "归属魔陷区域", "kind": "semantic"}
+{"name": "认定方式限定", "kind": "semantic"}
+{"name": "认定后生效", "kind": "semantic"}
+{"name": "归属随控制者", "kind": "semantic"}
+{"name": "放置资格限制", "kind": "semantic"}
+{"name": "区域归属判定", "kind": "semantic"}
+{"name": "区域使用分配", "kind": "semantic"}
+{"name": "召唤场所限定", "kind": "semantic"}
+{"name": "相互连接条件", "kind": "semantic"}
+{"name": "额外区域开放", "kind": "semantic"}
+{"name": "再召唤场所变更", "kind": "semantic"}
+{"name": "相邻范围排除", "kind": "semantic"}
+{"name": "转移后放置区域", "kind": "semantic"}
+{"name": "不返回原区域", "kind": "semantic"}
+{"name": "无区域时破坏", "kind": "semantic"}
+{"name": "纵列构成", "kind": "semantic"}
+{"name": "处理时需存在", "kind": "semantic"}
+{"name": "自身离场失效", "kind": "semantic"}
+{"name": "相邻范围界定", "kind": "semantic"}
+{"name": "手卡定义", "kind": "semantic"}
+{"name": "顺序不固定", "kind": "semantic"}
+{"name": "手卡数上限", "kind": "semantic"}
+{"name": "不算效果丢弃", "kind": "semantic"}
+{"name": "作用范围限定", "kind": "semantic"}
+{"name": "公开宣言", "kind": "semantic"}
+{"name": "手卡发动", "kind": "semantic"}
+{"name": "情报状态转换", "kind": "semantic"}
+{"name": "放置方式", "kind": "semantic"}
+{"name": "默认表侧除外", "kind": "semantic"}
+{"name": "返回位置", "kind": "semantic"}
+{"name": "里侧除外", "kind": "semantic"}
+{"name": "仅持有者确认", "kind": "semantic"}
+{"name": "情报来源", "kind": "semantic"}
+{"name": "卡片分类", "kind": "semantic"}
+{"name": "符号判读", "kind": "semantic"}
+{"name": "宣言卡名限制", "kind": "semantic"}
+{"name": "卡名复制", "kind": "semantic"}
+{"name": "卡名变化无关", "kind": "semantic"}
+{"name": "全区域适用卡名", "kind": "semantic"}
+{"name": "字段认定", "kind": "semantic"}
+{"name": "记述位置限定", "kind": "semantic"}
+{"name": "指定卡名范围", "kind": "semantic"}
+{"name": "仪式魔法对应", "kind": "semantic"}
+{"name": "任选1只", "kind": "semantic"}
+{"name": "双方不适用", "kind": "semantic"}
+{"name": "决斗无关信息", "kind": "semantic"}
+{"name": "等级有无", "kind": "semantic"}
+{"name": "阶级有无", "kind": "semantic"}
+{"name": "只取变更后值", "kind": "semantic"}
+{"name": "不同时并存", "kind": "semantic"}
+{"name": "连接数计数", "kind": "semantic"}
+{"name": "属性覆盖", "kind": "semantic"}
+{"name": "属性追加处理", "kind": "semantic"}
+{"name": "种族覆盖", "kind": "semantic"}
+{"name": "召唤方法标识", "kind": "semantic"}
+{"name": "出场方法标识", "kind": "semantic"}
+{"name": "能力标识", "kind": "semantic"}
+{"name": "通常怪兽标识", "kind": "semantic"}
+{"name": "效果字样标识", "kind": "semantic"}
+{"name": "数值读取", "kind": "semantic"}
+{"name": "原本数值参照", "kind": "semantic"}
+{"name": "变更后算原本", "kind": "semantic"}
+{"name": "场外数值参照", "kind": "semantic"}
+{"name": "守备力缺失", "kind": "semantic"}
+{"name": "数值不定", "kind": "semantic"}
+{"name": "视为0", "kind": "semantic"}
+{"name": "无法被选择", "kind": "semantic"}
+{"name": "文本区域界定", "kind": "semantic"}
+{"name": "风味文本", "kind": "semantic"}
+{"name": "无规则效力", "kind": "semantic"}
+{"name": "情报构成", "kind": "semantic"}
+{"name": "素材记载", "kind": "semantic"}
+{"name": "无素材出场", "kind": "semantic"}
+{"name": "特殊情报构成", "kind": "semantic"}
+{"name": "刻度用途", "kind": "semantic"}
+{"name": "区域限定效果", "kind": "semantic"}
+{"name": "指向方向数", "kind": "semantic"}
+{"name": "指向用途", "kind": "semantic"}
+{"name": "指向区域开放", "kind": "semantic"}
+{"name": "对手专用区域", "kind": "semantic"}
+{"name": "指向关系", "kind": "semantic"}
+{"name": "互相指向", "kind": "semantic"}
+{"name": "术语指代", "kind": "semantic"}
+{"name": "两处相互连接", "kind": "semantic"}
+{"name": "种类判定", "kind": "semantic"}
+{"name": "卡面文字判读", "kind": "semantic"}
+{"name": "文本位置界定", "kind": "semantic"}
+{"name": "分类例外", "kind": "semantic"}
+{"name": "效果持有判定", "kind": "semantic"}
+{"name": "例外情形", "kind": "semantic"}
+{"name": "外框颜色识别", "kind": "semantic"}
+{"name": "无能力标识", "kind": "semantic"}
+{"name": "不持有效果", "kind": "semantic"}
+{"name": "效果获得", "kind": "semantic"}
+{"name": "能力分类", "kind": "semantic"}
+{"name": "不能通常召唤", "kind": "semantic"}
+{"name": "出场条件满足", "kind": "semantic"}
+{"name": "种类归属", "kind": "semantic"}
+{"name": "非效果处理", "kind": "semantic"}
+{"name": "正规出场手续", "kind": "semantic"}
+{"name": "术语对应", "kind": "semantic"}
+{"name": "非仪式出场", "kind": "semantic"}
+{"name": "卡组归属", "kind": "semantic"}
+{"name": "返回EX卡组", "kind": "semantic"}
+{"name": "可作调整", "kind": "semantic"}
+{"name": "双重种类", "kind": "semantic"}
+{"name": "里侧放入EX", "kind": "semantic"}
+{"name": "表侧加入EX", "kind": "semantic"}
+{"name": "等级缺失", "kind": "semantic"}
+{"name": "持有阶级", "kind": "semantic"}
+{"name": "表示形式固定", "kind": "semantic"}
+{"name": "不能成为对象", "kind": "semantic"}
+{"name": "守备力变更不适用", "kind": "semantic"}
+{"name": "素材资格", "kind": "semantic"}
+{"name": "能力非效果", "kind": "semantic"}
+{"name": "种类按效果记述", "kind": "semantic"}
+{"name": "P效果不计入", "kind": "semantic"}
+{"name": "双方式使用", "kind": "semantic"}
+{"name": "召唤方式禁止", "kind": "semantic"}
+{"name": "P召唤禁止", "kind": "semantic"}
+{"name": "当作魔法发动", "kind": "semantic"}
+{"name": "无效后送墓", "kind": "semantic"}
+{"name": "效果按区域适用", "kind": "semantic"}
+{"name": "送墓去向例外", "kind": "semantic"}
+{"name": "文本优先适用", "kind": "semantic"}
+{"name": "出场来源", "kind": "semantic"}
+{"name": "召唤权取得", "kind": "semantic"}
+{"name": "主要阶段行动", "kind": "semantic"}
+{"name": "区域不足禁止", "kind": "semantic"}
+{"name": "区域自由选择", "kind": "semantic"}
+{"name": "表示形式限定", "kind": "semantic"}
+{"name": "事先决定", "kind": "semantic"}
+{"name": "当回合不可再召唤", "kind": "semantic"}
+{"name": "送墓来源不承认", "kind": "semantic"}
+{"name": "成功时点确定", "kind": "semantic"}
+{"name": "时点定义", "kind": "semantic"}
+{"name": "解放数量要求", "kind": "semantic"}
+{"name": "术语定义", "kind": "semantic"}
+{"name": "等级对应解放数", "kind": "semantic"}
+{"name": "区域不足仍可", "kind": "semantic"}
+{"name": "文本指定数量", "kind": "semantic"}
+{"name": "不当作上级召唤", "kind": "semantic"}
+{"name": "处理中不能发动", "kind": "semantic"}
+{"name": "错过时点", "kind": "semantic"}
+{"name": "里侧也可解放", "kind": "semantic"}
+{"name": "解放先行", "kind": "semantic"}
+{"name": "无效仍送墓", "kind": "semantic"}
+{"name": "控制者限制", "kind": "semantic"}
+{"name": "衍生物解放", "kind": "semantic"}
+{"name": "消灭代替送墓", "kind": "semantic"}
+{"name": "陷阱卡可解放", "kind": "semantic"}
+{"name": "解放禁止时不可", "kind": "semantic"}
+{"name": "EX区域怪兽可解放", "kind": "semantic"}
+{"name": "除外代替送墓", "kind": "semantic"}
+{"name": "不公开情报", "kind": "semantic"}
+{"name": "等级不公开", "kind": "semantic"}
+{"name": "例外处理", "kind": "semantic"}
+{"name": "不当作盖放", "kind": "semantic"}
+{"name": "视作特殊召唤", "kind": "semantic"}
+{"name": "表示形式变更", "kind": "semantic"}
+{"name": "视作盖放", "kind": "semantic"}
+{"name": "次数无限制", "kind": "semantic"}
+{"name": "区域不足例外", "kind": "semantic"}
+{"name": "条件满足召唤", "kind": "semantic"}
+{"name": "优先权前提", "kind": "semantic"}
+{"name": "特殊召唤被无效", "kind": "semantic"}
+{"name": "手续移动", "kind": "semantic"}
+{"name": "范围包含效果", "kind": "semantic"}
+{"name": "对手指向可用", "kind": "semantic"}
+{"name": "区域占用例外", "kind": "semantic"}
+{"name": "素材选择限制", "kind": "semantic"}
+{"name": "仪式融合例外", "kind": "semantic"}
+{"name": "唯一出场方法", "kind": "semantic"}
+{"name": "正规手续前置", "kind": "semantic"}
+{"name": "EX特召例外", "kind": "semantic"}
+{"name": "手续状态重置", "kind": "semantic"}
+{"name": "无视召唤条件", "kind": "semantic"}
+{"name": "发动条件满足", "kind": "semantic"}
+{"name": "入连锁", "kind": "semantic"}
+{"name": "等级合计解放", "kind": "semantic"}
+{"name": "从手卡出场", "kind": "semantic"}
+{"name": "效果处理中进行", "kind": "semantic"}
+{"name": "期间不能发动", "kind": "semantic"}
+{"name": "发动无效免解放", "kind": "semantic"}
+{"name": "等级合计判定", "kind": "semantic"}
+{"name": "以上允许超出", "kind": "semantic"}
+{"name": "数量不得超出", "kind": "semantic"}
+{"name": "素材指定限制", "kind": "semantic"}
+{"name": "发动卡种类扩大", "kind": "semantic"}
+{"name": "素材送墓处理", "kind": "semantic"}
+{"name": "出场手续", "kind": "semantic"}
+{"name": "再召唤场所", "kind": "semantic"}
+{"name": "发动后送墓", "kind": "semantic"}
+{"name": "里侧也可作素材", "kind": "semantic"}
+{"name": "素材来源扩大", "kind": "semantic"}
+{"name": "不能融合召唤", "kind": "semantic"}
+{"name": "出场方法限定", "kind": "semantic"}
+{"name": "手续后可用效果", "kind": "semantic"}
+{"name": "素材不可代替", "kind": "semantic"}
+{"name": "发动无效免送墓", "kind": "semantic"}
+{"name": "衍生物作素材", "kind": "semantic"}
+{"name": "陷阱卡作素材", "kind": "semantic"}
+{"name": "素材身份丧失", "kind": "semantic"}
+{"name": "关系解除", "kind": "semantic"}
+{"name": "短时除外例外", "kind": "semantic"}
+{"name": "特殊融合出场", "kind": "semantic"}
+{"name": "不当作融合召唤", "kind": "semantic"}
+{"name": "可被无效", "kind": "semantic"}
+{"name": "融合召唤可用", "kind": "semantic"}
+{"name": "融合召唤禁止", "kind": "semantic"}
+{"name": "P召唤可用", "kind": "semantic"}
+{"name": "再次P召唤", "kind": "semantic"}
+{"name": "被无效送墓", "kind": "semantic"}
+{"name": "正规手续界定", "kind": "semantic"}
+{"name": "等级相同宣言", "kind": "semantic"}
+{"name": "条件全体满足", "kind": "semantic"}
+{"name": "送墓先行", "kind": "semantic"}
+{"name": "无效不当作素材", "kind": "semantic"}
+{"name": "无等级不可用", "kind": "semantic"}
+{"name": "S召唤可用", "kind": "semantic"}
+{"name": "S召唤禁止", "kind": "semantic"}
+{"name": "同等级宣言", "kind": "semantic"}
+{"name": "素材重叠", "kind": "semantic"}
+{"name": "指定怪兽上重叠", "kind": "semantic"}
+{"name": "不需素材", "kind": "semantic"}
+{"name": "不当作卡片", "kind": "semantic"}
+{"name": "重叠先行", "kind": "semantic"}
+{"name": "来源不承认", "kind": "semantic"}
+{"name": "离场送墓", "kind": "semantic"}
+{"name": "衍生物不可用", "kind": "semantic"}
+{"name": "X召唤可用", "kind": "semantic"}
+{"name": "X召唤禁止", "kind": "semantic"}
+{"name": "阶级对应", "kind": "semantic"}
+{"name": "升阶纳入", "kind": "semantic"}
+{"name": "宣言条件", "kind": "semantic"}
+{"name": "刻度区间判定", "kind": "semantic"}
+{"name": "两处来源同时", "kind": "semantic"}
+{"name": "数量自由选择", "kind": "semantic"}
+{"name": "追加P召唤", "kind": "semantic"}
+{"name": "怪兽范围限定", "kind": "semantic"}
+{"name": "全部送墓", "kind": "semantic"}
+{"name": "同时特殊召唤", "kind": "semantic"}
+{"name": "素材数匹配", "kind": "semantic"}
+{"name": "表侧攻击出场", "kind": "semantic"}
+{"name": "素材数换算", "kind": "semantic"}
+{"name": "素材数量下限", "kind": "semantic"}
+{"name": "效果特召", "kind": "semantic"}
+{"name": "无效时机限定", "kind": "semantic"}
+{"name": "自身特召", "kind": "semantic"}
+{"name": "效果种类倾向", "kind": "semantic"}
+{"name": "放置位置选择", "kind": "semantic"}
+{"name": "例外由对方", "kind": "semantic"}
+{"name": "定义与条件", "kind": "semantic"}
+{"name": "反转召唤被无效", "kind": "semantic"}
+{"name": "总体次数不限", "kind": "semantic"}
+{"name": "单只限1次", "kind": "semantic"}
+{"name": "当回合禁止", "kind": "semantic"}
+{"name": "视作反转", "kind": "semantic"}
+{"name": "反转判定", "kind": "semantic"}
+{"name": "伤害计算前", "kind": "semantic"}
+{"name": "时点区分", "kind": "semantic"}
+{"name": "不能发动", "kind": "semantic"}
+{"name": "攻转守", "kind": "semantic"}
+{"name": "守转攻", "kind": "semantic"}
+{"name": "里转表攻", "kind": "semantic"}
+{"name": "默认变更规则", "kind": "semantic"}
+{"name": "摆放方式判读", "kind": "semantic"}
+{"name": "攻击力参照", "kind": "semantic"}
+{"name": "攻击宣言禁止", "kind": "semantic"}
+{"name": "守备力参照", "kind": "semantic"}
+{"name": "控制者确认", "kind": "semantic"}
+{"name": "效果不适用", "kind": "semantic"}
+{"name": "伤害计算前翻表", "kind": "semantic"}
+{"name": "不可作条件对象", "kind": "semantic"}
+{"name": "解放例外", "kind": "semantic"}
+{"name": "任意变更权", "kind": "semantic"}
+{"name": "次数限制", "kind": "semantic"}
+{"name": "效果变更不受限", "kind": "semantic"}
+{"name": "变更禁止", "kind": "semantic"}
+{"name": "变更路径表", "kind": "semantic"}
+{"name": "产生方式", "kind": "semantic"}
+{"name": "消灭代替离场", "kind": "semantic"}
+{"name": "里侧化禁止", "kind": "semantic"}
+{"name": "送墓禁止", "kind": "semantic"}
+{"name": "视作通常怪兽", "kind": "semantic"}
+{"name": "效果归属", "kind": "semantic"}
+{"name": "效果分类", "kind": "semantic"}
+{"name": "持续适用条件", "kind": "semantic"}
+{"name": "立即适用", "kind": "semantic"}
+{"name": "失效时点", "kind": "semantic"}
+{"name": "处理途中失效", "kind": "semantic"}
+{"name": "发动条件", "kind": "semantic"}
+{"name": "发动场所扩大", "kind": "semantic"}
+{"name": "速度1限制", "kind": "semantic"}
+{"name": "离场仍处理", "kind": "semantic"}
+{"name": "处理时需在场", "kind": "semantic"}
+{"name": "时点触发", "kind": "semantic"}
+{"name": "同组连锁", "kind": "semantic"}
+{"name": "错失时点", "kind": "semantic"}
+{"name": "分批发动", "kind": "semantic"}
+{"name": "伤害步骤限制", "kind": "semantic"}
+{"name": "例外效果", "kind": "semantic"}
+{"name": "反转触发点", "kind": "semantic"}
+{"name": "伤害计算后发动", "kind": "semantic"}
+{"name": "不能组连锁", "kind": "semantic"}
+{"name": "仅可发动1张", "kind": "semantic"}
+{"name": "反转诱发", "kind": "semantic"}
+{"name": "非反转时机", "kind": "semantic"}
+{"name": "对方回合可用", "kind": "semantic"}
+{"name": "速度2可连锁", "kind": "semantic"}
+{"name": "任意发动", "kind": "semantic"}
+{"name": "无效类效果", "kind": "semantic"}
+{"name": "分类依据", "kind": "semantic"}
+{"name": "伤害计算前时限", "kind": "semantic"}
+{"name": "分类外效果", "kind": "semantic"}
+{"name": "区域外适用", "kind": "semantic"}
+{"name": "里侧适用", "kind": "semantic"}
+{"name": "离场除外", "kind": "semantic"}
+{"name": "原本攻击力改写", "kind": "semantic"}
+{"name": "破坏后转魔法", "kind": "semantic"}
+{"name": "当作魔法卡盖放", "kind": "semantic"}
+{"name": "仅限1只存在", "kind": "semantic"}
+{"name": "素材代替", "kind": "semantic"}
+{"name": "素材获得效果", "kind": "semantic"}
+{"name": "举例说明", "kind": "semantic"}
+{"name": "发动时点限定", "kind": "semantic"}
+{"name": "放置位置", "kind": "semantic"}
+{"name": "翻开发动", "kind": "semantic"}
+{"name": "速度1", "kind": "semantic"}
+{"name": "可被连锁无效", "kind": "semantic"}
+{"name": "视作表侧存在", "kind": "semantic"}
+{"name": "处理完送墓", "kind": "semantic"}
+{"name": "类型例外", "kind": "semantic"}
+{"name": "盖放时点", "kind": "semantic"}
+{"name": "当回合可发动", "kind": "semantic"}
+{"name": "种类差异", "kind": "semantic"}
+{"name": "标识判读", "kind": "semantic"}
+{"name": "例外留场", "kind": "semantic"}
+{"name": "仪式召唤必要", "kind": "semantic"}
+{"name": "留场放置", "kind": "semantic"}
+{"name": "效果发动区分", "kind": "semantic"}
+{"name": "离场失效", "kind": "semantic"}
+{"name": "连锁中断不处理", "kind": "semantic"}
+{"name": "取对象发动", "kind": "semantic"}
+{"name": "对象范围", "kind": "semantic"}
+{"name": "可装备对方怪兽", "kind": "semantic"}
+{"name": "复数装备可能", "kind": "semantic"}
+{"name": "无效状态装备", "kind": "semantic"}
+{"name": "发动无效区别", "kind": "semantic"}
+{"name": "装备关系解除", "kind": "semantic"}
+{"name": "不当作效果破坏", "kind": "semantic"}
+{"name": "不受影响仍装备", "kind": "semantic"}
+{"name": "条件丧失破坏", "kind": "semantic"}
+{"name": "替换放置", "kind": "semantic"}
+{"name": "墓地发动", "kind": "semantic"}
+{"name": "手卡发动时机", "kind": "semantic"}
+{"name": "盖放可发动", "kind": "semantic"}
+{"name": "双方回合", "kind": "semantic"}
+{"name": "当作魔法卡", "kind": "semantic"}
+{"name": "区域限定适用", "kind": "semantic"}
+{"name": "效果性质归属", "kind": "semantic"}
+{"name": "不属任何种类", "kind": "semantic"}
+{"name": "不能发动效果", "kind": "semantic"}
+{"name": "速度分档", "kind": "semantic"}
+{"name": "盖放前置", "kind": "semantic"}
+{"name": "手卡发动例外", "kind": "semantic"}
+{"name": "双方回合可发动", "kind": "semantic"}
+{"name": "例外可发动", "kind": "semantic"}
+{"name": "速度2", "kind": "semantic"}
+{"name": "留场装备化", "kind": "semantic"}
+{"name": "仍当作陷阱", "kind": "semantic"}
+{"name": "可只翻表发动", "kind": "semantic"}
+{"name": "发动与处理同时", "kind": "semantic"}
+{"name": "速度3可连锁", "kind": "semantic"}
+{"name": "特定行为时点", "kind": "semantic"}
+{"name": "直接连锁", "kind": "semantic"}
+{"name": "整组无效", "kind": "semantic"}
+{"name": "文本结构划分", "kind": "semantic"}
+{"name": "处理顺序", "kind": "semantic"}
+{"name": "中途终止", "kind": "semantic"}
+{"name": "选择限制", "kind": "semantic"}
+{"name": "回合玩家先处理", "kind": "semantic"}
+{"name": "必发延后", "kind": "semantic"}
+{"name": "不处理也算过", "kind": "semantic"}
+{"name": "控制者判定", "kind": "semantic"}
+{"name": "视角基准", "kind": "semantic"}
+{"name": "小数点处理", "kind": "semantic"}
+{"name": "下降值按实际", "kind": "semantic"}
+{"name": "无效适用范围", "kind": "semantic"}
+{"name": "场上再次发动", "kind": "semantic"}
+{"name": "发动时支付", "kind": "semantic"}
+{"name": "不返还", "kind": "semantic"}
+{"name": "不可发动", "kind": "semantic"}
+{"name": "解放支付", "kind": "semantic"}
+{"name": "送墓处理", "kind": "semantic"}
+{"name": "结果视为送墓", "kind": "semantic"}
+{"name": "丢弃支付", "kind": "semantic"}
+{"name": "cost不可支付", "kind": "semantic"}
+{"name": "仅丢弃可支付", "kind": "semantic"}
+{"name": "送墓支付", "kind": "semantic"}
+{"name": "不视作丢弃", "kind": "semantic"}
+{"name": "里侧不可用", "kind": "semantic"}
+{"name": "条件满足才能发动", "kind": "semantic"}
+{"name": "必发发动", "kind": "semantic"}
+{"name": "无法支付不发动", "kind": "semantic"}
+{"name": "文本差异判定", "kind": "semantic"}
+{"name": "延后选择", "kind": "semantic"}
+{"name": "处理中可满足", "kind": "semantic"}
+{"name": "当场选择", "kind": "semantic"}
+{"name": "处理中不可发动", "kind": "semantic"}
+{"name": "取对象", "kind": "semantic"}
+{"name": "对象不可变更", "kind": "semantic"}
+{"name": "取对象判定", "kind": "semantic"}
+{"name": "无效不视作取对象", "kind": "semantic"}
+{"name": "对象移动失效", "kind": "semantic"}
+{"name": "多对象部分适用", "kind": "semantic"}
+{"name": "取对象后适用", "kind": "semantic"}
+{"name": "非公开场所", "kind": "semantic"}
+{"name": "范围全体适用", "kind": "semantic"}
+{"name": "发动时不确定", "kind": "semantic"}
+{"name": "处理时选择", "kind": "semantic"}
+{"name": "不取对象判定", "kind": "semantic"}
+{"name": "连锁顺序决定", "kind": "semantic"}
+{"name": "速度决定连锁", "kind": "semantic"}
+{"name": "不能自发连锁", "kind": "semantic"}
+{"name": "例外组连锁", "kind": "semantic"}
+{"name": "不能连锁速度3", "kind": "semantic"}
+{"name": "可发动条件", "kind": "semantic"}
+{"name": "种类限定", "kind": "semantic"}
+{"name": "优先权转移", "kind": "semantic"}
+{"name": "连锁编号", "kind": "semantic"}
+{"name": "连锁递增", "kind": "semantic"}
+{"name": "处理开始条件", "kind": "semantic"}
+{"name": "优先度顺序", "kind": "semantic"}
+{"name": "必发优先", "kind": "semantic"}
+{"name": "自选顺序", "kind": "semantic"}
+{"name": "优先度提升", "kind": "semantic"}
+{"name": "逆序处理", "kind": "semantic"}
+{"name": "送墓时机", "kind": "semantic"}
+{"name": "对象不存在不处理", "kind": "semantic"}
+{"name": "条件丧失不适用", "kind": "semantic"}
+{"name": "结束判定", "kind": "semantic"}
+{"name": "禁止行动优先", "kind": "semantic"}
+{"name": "由对方选择", "kind": "semantic"}
+{"name": "置于未知状态", "kind": "semantic"}
+{"name": "行为定义", "kind": "semantic"}
+{"name": "视作同时抽取", "kind": "semantic"}
+{"name": "不当作通常抽卡", "kind": "semantic"}
+{"name": "卡组不足限制", "kind": "semantic"}
+{"name": "卡组耗尽败北", "kind": "semantic"}
+{"name": "不视作抽卡", "kind": "semantic"}
+{"name": "视作加入手卡", "kind": "semantic"}
+{"name": "次数计算方式", "kind": "semantic"}
+{"name": "破坏后送墓", "kind": "semantic"}
+{"name": "复合状态认定", "kind": "semantic"}
+{"name": "破坏后除外", "kind": "semantic"}
+{"name": "不可破坏", "kind": "semantic"}
+{"name": "破坏失败则终止", "kind": "semantic"}
+{"name": "丢弃后送墓", "kind": "semantic"}
+{"name": "丢弃后除外", "kind": "semantic"}
+{"name": "状态互斥", "kind": "semantic"}
+{"name": "不可破坏不影响送墓", "kind": "semantic"}
+{"name": "持有者墓地归属", "kind": "semantic"}
+{"name": "表述等价", "kind": "semantic"}
+{"name": "决斗间恢复", "kind": "semantic"}
+{"name": "不视作特殊召唤", "kind": "semantic"}
+{"name": "回场表示形式", "kind": "semantic"}
+{"name": "回场控制者", "kind": "semantic"}
+{"name": "回场区域变更", "kind": "semantic"}
+{"name": "无区域则送墓", "kind": "semantic"}
+{"name": "回场资格丧失", "kind": "semantic"}
+{"name": "效果重置", "kind": "semantic"}
+{"name": "洗切处理", "kind": "semantic"}
+{"name": "例外不洗切", "kind": "semantic"}
+{"name": "控制者归属", "kind": "semantic"}
+{"name": "可作cost与素材", "kind": "semantic"}
+{"name": "回持有者场所", "kind": "semantic"}
+{"name": "不视作效果破坏", "kind": "semantic"}
+{"name": "处理不适用", "kind": "semantic"}
+{"name": "无效后去向", "kind": "semantic"}
+{"name": "无效不移动", "kind": "semantic"}
+{"name": "并破坏例外", "kind": "semantic"}
+{"name": "无效卡的发动", "kind": "semantic"}
+{"name": "处理不进行", "kind": "semantic"}
+{"name": "无效范围扩大", "kind": "semantic"}
+{"name": "发动有效效果不适用", "kind": "semantic"}
+{"name": "无效状态下处理", "kind": "semantic"}
+{"name": "原本数值变更", "kind": "semantic"}
+{"name": "变化效果失效", "kind": "semantic"}
+{"name": "不属于原本数值", "kind": "semantic"}
+{"name": "累积计算", "kind": "semantic"}
+{"name": "分类界定", "kind": "semantic"}
+{"name": "不再重算", "kind": "semantic"}
+{"name": "重新计算", "kind": "semantic"}
+{"name": "在数值上累积", "kind": "semantic"}
+{"name": "原本与否区分", "kind": "semantic"}
+{"name": "后适用优先", "kind": "semantic"}
+{"name": "覆盖为指定值", "kind": "semantic"}
+{"name": "永续不重算", "kind": "semantic"}
+{"name": "后续效果叠加", "kind": "semantic"}
+{"name": "不视作伤害", "kind": "semantic"}
+{"name": "伤害性质判定", "kind": "semantic"}
+{"name": "不视作同时", "kind": "semantic"}
+{"name": "追加伤害适用", "kind": "semantic"}
+{"name": "当作装备魔法", "kind": "semantic"}
+{"name": "P功能丧失", "kind": "semantic"}
+{"name": "无效则破坏", "kind": "semantic"}
+{"name": "持续取对象", "kind": "semantic"}
+{"name": "无效仍留场", "kind": "semantic"}
+{"name": "再召唤", "kind": "semantic"}
+{"name": "次数合并", "kind": "semantic"}
+{"name": "不需解放", "kind": "semantic"}
+{"name": "区域不变", "kind": "semantic"}
+{"name": "表示形式限制", "kind": "semantic"}
+{"name": "视作效果怪兽", "kind": "semantic"}
+{"name": "状态重置", "kind": "semantic"}
+{"name": "装备关系维持", "kind": "semantic"}
+{"name": "无效后转效果怪兽", "kind": "semantic"}
+{"name": "部分无效状态", "kind": "semantic"}
+{"name": "墓地也视为效果怪兽", "kind": "semantic"}
+{"name": "变里侧不适用", "kind": "semantic"}
+{"name": "对象资格丧失", "kind": "semantic"}
+{"name": "变更限制", "kind": "semantic"}
+{"name": "攻击权耗尽", "kind": "semantic"}
+{"name": "指定区域特召", "kind": "semantic"}
+{"name": "区域释放", "kind": "semantic"}
+{"name": "双破坏适用", "kind": "semantic"}
+{"name": "无效后留场", "kind": "semantic"}
+{"name": "回到魔陷区", "kind": "semantic"}
+{"name": "不再当作怪兽", "kind": "semantic"}
+{"name": "仅当作怪兽", "kind": "semantic"}
+{"name": "里侧在主怪兽区", "kind": "semantic"}
+{"name": "标记属性", "kind": "semantic"}
+{"name": "无独立效果", "kind": "semantic"}
+{"name": "可作cost", "kind": "semantic"}
+{"name": "取除处理", "kind": "semantic"}
+{"name": "里侧取除", "kind": "semantic"}
+{"name": "无效则取除", "kind": "semantic"}
+{"name": "无效不取除", "kind": "semantic"}
+{"name": "条件文本一并获得", "kind": "semantic"}
+{"name": "视作原本持有", "kind": "semantic"}
+{"name": "原本种类判定", "kind": "semantic"}
+{"name": "不以区域为对象", "kind": "semantic"}
+{"name": "区域不可用不移动", "kind": "semantic"}
+{"name": "视作控制转移", "kind": "semantic"}
+{"name": "不发生卷回", "kind": "semantic"}
+{"name": "仍为对象", "kind": "semantic"}
+{"name": "效果持续", "kind": "semantic"}
+{"name": "新出场处理", "kind": "semantic"}
+{"name": "移动不需手续", "kind": "semantic"}
+{"name": "不视作卡发动", "kind": "semantic"}
+{"name": "只适用1个", "kind": "semantic"}
+{"name": "内容相同不可发动", "kind": "semantic"}
+{"name": "已处理不受影响", "kind": "semantic"}
+{"name": "原本卡名判定", "kind": "semantic"}
+{"name": "卡名变更包含", "kind": "semantic"}
+{"name": "使用行为范围", "kind": "semantic"}
+{"name": "效果特召禁止", "kind": "semantic"}
+{"name": "非使用行为", "kind": "semantic"}
+{"name": "伤害计算照常", "kind": "semantic"}
+{"name": "战斗破坏", "kind": "semantic"}
+{"name": "非效果文本划分", "kind": "semantic"}
+{"name": "不可被无效", "kind": "semantic"}
+{"name": "无条件适用", "kind": "semantic"}
+{"name": "出场条件", "kind": "semantic"}
+{"name": "维持条件", "kind": "semantic"}
+{"name": "发动条件文本", "kind": "semantic"}
+{"name": "素材限制文本", "kind": "semantic"}
+{"name": "条件文本归属", "kind": "semantic"}
+{"name": "发动事实认定", "kind": "semantic"}
+{"name": "发动次数耗尽", "kind": "semantic"}
+{"name": "可再发动", "kind": "semantic"}
+{"name": "控制转移限制", "kind": "semantic"}
+{"name": "卡名限定次数", "kind": "semantic"}
+{"name": "对方可再发动", "kind": "semantic"}
+{"name": "同名范围界定", "kind": "semantic"}
+{"name": "条件属效果", "kind": "semantic"}
+{"name": "其他素材条件", "kind": "semantic"}
+{"name": "召唤对象限定", "kind": "semantic"}
+{"name": "手卡素材", "kind": "semantic"}
+{"name": "文本归属举例", "kind": "semantic"}
+{"name": "胜负文本归属", "kind": "semantic"}
+{"name": "条件需持续满足", "kind": "semantic"}
+{"name": "胜利确定时点", "kind": "semantic"}
+{"name": "礼仪要求", "kind": "semantic"}
+{"name": "洗切程序", "kind": "semantic"}
+{"name": "切牌", "kind": "semantic"}
+{"name": "禁止再洗切", "kind": "semantic"}
+{"name": "先后攻选择", "kind": "semantic"}
+{"name": "先后攻继承规则", "kind": "semantic"}
+{"name": "初始状态", "kind": "semantic"}
+{"name": "开场禁止行动", "kind": "semantic"}
+{"name": "优先权定义", "kind": "semantic"}
+{"name": "可发动种类", "kind": "semantic"}
+{"name": "无需优先权", "kind": "semantic"}
+{"name": "转移条件", "kind": "semantic"}
+{"name": "双方放弃前提", "kind": "semantic"}
+{"name": "概念区分", "kind": "semantic"}
+{"name": "宣言前进", "kind": "semantic"}
+{"name": "阶段构成", "kind": "semantic"}
+{"name": "结束条件", "kind": "semantic"}
+{"name": "宣言开始", "kind": "semantic"}
+{"name": "回合计数", "kind": "semantic"}
+{"name": "回合计数限定", "kind": "semantic"}
+{"name": "通常抽卡", "kind": "semantic"}
+{"name": "首回合跳过", "kind": "semantic"}
+{"name": "抽卡前禁止", "kind": "semantic"}
+{"name": "发动顺序", "kind": "semantic"}
+{"name": "阶段转移", "kind": "semantic"}
+{"name": "处理顺序自由", "kind": "semantic"}
+{"name": "开场行动限定", "kind": "semantic"}
+{"name": "行动前提", "kind": "semantic"}
+{"name": "行动清单", "kind": "semantic"}
+{"name": "阶段选择", "kind": "semantic"}
+{"name": "首回合限制", "kind": "semantic"}
+{"name": "步骤构成", "kind": "semantic"}
+{"name": "宣言进入", "kind": "semantic"}
+{"name": "阶段开始时处理", "kind": "semantic"}
+{"name": "步骤转移", "kind": "semantic"}
+{"name": "攻击次数限制", "kind": "semantic"}
+{"name": "多阶段换算", "kind": "semantic"}
+{"name": "攻击对象选择", "kind": "semantic"}
+{"name": "直接攻击", "kind": "semantic"}
+{"name": "宣言顺序", "kind": "semantic"}
+{"name": "只能该时点", "kind": "semantic"}
+{"name": "复数同组", "kind": "semantic"}
+{"name": "步骤跳过", "kind": "semantic"}
+{"name": "不进行伤害计算", "kind": "semantic"}
+{"name": "卷回成立条件", "kind": "semantic"}
+{"name": "数量增减认定", "kind": "semantic"}
+{"name": "不成立情形", "kind": "semantic"}
+{"name": "重新选择", "kind": "semantic"}
+{"name": "视作已宣言", "kind": "semantic"}
+{"name": "不视作宣言时", "kind": "semantic"}
+{"name": "处理结束后卷回", "kind": "semantic"}
+{"name": "发生限定", "kind": "semantic"}
+{"name": "视作已攻击", "kind": "semantic"}
+{"name": "时点不可复用", "kind": "semantic"}
+{"name": "步骤细分", "kind": "semantic"}
+{"name": "反转不发动", "kind": "semantic"}
+{"name": "攻守增减适用", "kind": "semantic"}
+{"name": "数值计算", "kind": "semantic"}
+{"name": "基本分扣除", "kind": "semantic"}
+{"name": "连锁顺序发动", "kind": "semantic"}
+{"name": "攻守比较判定", "kind": "semantic"}
+{"name": "破坏时点", "kind": "semantic"}
+{"name": "直接攻击伤害", "kind": "semantic"}
+{"name": "判定时点", "kind": "semantic"}
+{"name": "计算规则", "kind": "semantic"}
+{"name": "不视作战斗", "kind": "semantic"}
+{"name": "效果停止", "kind": "semantic"}
+{"name": "破坏的代替", "kind": "semantic"}
+{"name": "同时给与", "kind": "semantic"}
+{"name": "送墓时点", "kind": "semantic"}
+{"name": "适用截止时点", "kind": "semantic"}
+{"name": "步骤定义", "kind": "semantic"}
+{"name": "效果强制转移", "kind": "semantic"}
+{"name": "进行条件", "kind": "semantic"}
+{"name": "行动相同", "kind": "semantic"}
+{"name": "不能回到战斗阶段", "kind": "semantic"}
+{"name": "次数已用", "kind": "semantic"}
+{"name": "必发先处理", "kind": "semantic"}
+{"name": "规则版本", "kind": "semantic"}
+{"name": "规章遵守", "kind": "semantic"}
+{"name": "禁止使用", "kind": "semantic"}
+{"name": "投入张数限制", "kind": "semantic"}
+{"name": "使用范围", "kind": "semantic"}
+{"name": "卡套义务", "kind": "semantic"}
+{"name": "不可使用", "kind": "semantic"}
+{"name": "文本确认材料", "kind": "semantic"}
+{"name": "数据库限定", "kind": "semantic"}
+{"name": "恢复义务", "kind": "semantic"}
+{"name": "替换禁止", "kind": "semantic"}
+{"name": "张数公开义务", "kind": "semantic"}
