@@ -67,7 +67,10 @@ function renderRetrieve(d){
  h.push("<div>裁定父块："+(r.rulings.parents.length?esc(r.rulings.parents.join("、")):"（无）")+"</div>");
  h.push("<div>三路候选："+r.rulings.lanes.map(function(x){return '<span class="lane">'+x[0]+" "+x[1]+"</span>";}).join("")+"</div></div>");
  h.push('<div class="card"><h2>卡片库</h2>');
- if(r.cards.length){r.cards.forEach(function(c){h.push('<div class="block"><b>'+esc(c.name)+'</b> <span class="muted">cid '+c.cid+"</span><pre>"+esc(c.text)+"</pre></div>");});}
+ if(r.cards.length){r.cards.forEach(function(c){
+   h.push('<div class="block"><b>'+esc(c.name)+'</b> <span class="muted">cid '+c.cid+"</span><pre>"+esc(c.text)+"</pre>");
+   if(c.supplement){h.push('<div class="muted" style="margin-top:6px">补充说明（官方补充情报）</div><pre>'+esc(c.supplement)+"</pre>");}
+   h.push("</div>");});}
  else h.push('<div class="muted">未召回卡片</div>');
  h.push("</div>");
  h.push('<div class="card"><h2>规则库</h2>');

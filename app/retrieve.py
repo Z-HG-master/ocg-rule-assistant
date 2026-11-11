@@ -20,7 +20,8 @@ def retrieve(query):
     ruling_parents = sorted(hits, key=lambda k: -hits[k])[:6]
     return {
         "query": query,
-        "cards": [{"cid": c[0], "name": c[1], "types": c[2], "text": card_line(c)} for c in cards],
+        "cards": [{"cid": c[0], "name": c[1], "types": c[2], "text": card_line(c),
+                   "supplement": (c[4] if len(c) > 4 else "") or ""} for c in cards],
         "rules": {
             "parents": rule_parents,
             "blocks": [{"bid": b["bid"], "display": b["display"]} for b in blocks],

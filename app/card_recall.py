@@ -27,7 +27,7 @@ def _norm(text):
 
 
 def recall_cards(query, top=6):
-    """返回 [(cid, name, types, desc)]"""
+    """返回 [(cid, name, types, desc, supplement)]"""
     s = _load()
     t = _norm(query)
     ids = []
@@ -50,13 +50,18 @@ def recall_cards(query, top=6):
         seen.add(c)
         m = s["meta"].get(str(c))
         if m:
-            out.append((c, m.get("name"), m.get("types"), m.get("desc") or ""))
+            out.append((c, m.get("name"), m.get("types"), m.get("desc") or "",
+                        m.get("supplement") or ""))
         if len(out) >= top:
             break
     return out
 
 
 def card_line(item):
-    cid, name, types, desc = item
-    body = (desc or "").replace("\n", " ").strip()
-    return "[卡片 %s] %s｜%s｜%s" % (cid, name, types or "", body[:400])
+    """卡片行：卡文 + 官方补充说明（两者来源不同，分行标注）。"""
+    cid, name, types, desc, supp = (list(item) + ["", "", "", "", ""])[:5]
+    body = (desc or "").strip()
+    line = "[卡片 %s] %s｜%s｜%s" % (cid, name, types or "", body)
+    if supp:
+        line += "\n[补充说明] %s" % supp.strip()
+    return line
